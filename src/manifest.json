@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "ConTime Site Blocker",
-    "description": "Simple google chrome extension for developers that want to block big social media websites like Twitter: Facebook, Instagram, LinkedIn, WhatsApp, Reddit etc. Add this extension into your browser and achieve better productivity.",
+    "description": "Block any site in your browser as a student, worker or a developer in other to increase productivity.",
     "version" : "1.0.0",
     "icons" : {"128": "./assets/images/icon.png"},
     "action": {
